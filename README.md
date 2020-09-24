@@ -1,0 +1,1 @@
+The android application build using thired party API called TMDB, I  have used Retrofit Library to call the specific API, the android application allows users to get movies information in list view format.
